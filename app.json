@@ -1,8 +1,8 @@
 {
-  "name": "Queen Bixby-MD Pro",
+  "name": "🕊️🍃 𝙌𝙀𝙀𝙉 𝙏𝙃 𝙈𝙄𝙉𝙀 𝙈𝘿 🍃🕊️ Pro",
   "description": "WhatsApp MD bot build with nodejs",
   "repository": "https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW",
-  "logo": "https://telegra.ph/file/5fb8366c76ea6cd1177f6.jpg",
+  "logo": "https://i.ibb.co/cCnNBPZ/20221005-121833.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
